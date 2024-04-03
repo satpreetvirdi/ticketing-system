@@ -433,7 +433,7 @@ function App() {
 
         <section id="hero" className="hero">
           <div className="hero-content">
-            <h1>Welcome to My Landing Page</h1>
+            <h1></h1>
           </div>
         </section>
         <section id="testimonials" className="testimonials">

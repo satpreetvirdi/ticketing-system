@@ -29,7 +29,7 @@ body {
   background-image: url("../public/test.jpg");
   background-size: cover;
   height: 50vh;
-  color: white;
+  color: rgb(134, 38, 38);
   text-align: center;
   padding: 100px 0;
 }
